@@ -58,7 +58,7 @@ To level up from beginner to confident intermediate by building real-world apps,
 
 ```bash
 # Clone the project
-git clone https://github.com/your-org/web-dev-curriculum.git
+git clone https://github.com/your-org/intermediate-react-projects.git
 cd web-dev-curriculum
 
 # Navigate into project folders and install

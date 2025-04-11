@@ -35,3 +35,39 @@ To level up from beginner to confident intermediate by building real-world apps,
 
 ## 📁 Project Structure
 
+```
+/project-name
+  /client     # React frontend
+  /server     # Node/Express backend
+  README.md
+```
+
+---
+
+## 👥 Collaboration Guidelines
+
+- Use branches per feature or team member (`feature/chat-ui`, `feature/auth`)
+- Commit often, with clear messages
+- Use Pull Requests (PRs) and Reviews
+- Use GitHub Projects for task tracking
+- Weekly team stand-ups (via voice or text)
+
+---
+
+## 🧪 Setup Instructions
+
+```bash
+# Clone the project
+git clone https://github.com/your-org/web-dev-curriculum.git
+cd web-dev-curriculum
+
+# Navigate into project folders and install
+cd client && npm install
+cd ../server && npm install
+```
+
+---
+
+## 📋 License
+
+MIT — free to use and modify for educational purposes.

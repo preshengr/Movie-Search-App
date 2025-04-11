@@ -1,4 +1,4 @@
-# 🌐 Intermediate Web Development Curriculum
+# 🌐 Intermediate React Curriculum
 
 A structured roadmap and series of collaborative projects designed to help students improve their skills in **JavaScript**, **React**, and **full-stack web development** through hands-on experience.
 
@@ -59,7 +59,7 @@ To level up from beginner to confident intermediate by building real-world apps,
 ```bash
 # Clone the project
 git clone https://github.com/your-org/intermediate-react-projects.git
-cd web-dev-curriculum
+cd intermediate-react-projects
 
 # Navigate into project folders and install
 cd client && npm install
